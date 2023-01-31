@@ -1,0 +1,23 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+h3 {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+p {
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;
+}
+h4 {
+    color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
